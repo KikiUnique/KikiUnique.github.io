@@ -2,10 +2,10 @@
 
 The Otherworld has returned and Gods old and twisted have staked their claim on the mortal plane promised to them. Who will you side with to keep you alive?
 
-[Skills](/skills)
+[Skills]({% link skills.md | absolute_url %}))
 
-[Calls](/calls)
+[Calls]({% link calls.md | absolute_url %}))
 
-[Rules](/rules)
+[Rules]({% link rules.md | absolute_url %}))
 
-[Lore](/lore)
+[Lore]({% link lore.md | absolute_url %}))
