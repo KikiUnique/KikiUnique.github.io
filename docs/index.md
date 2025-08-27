@@ -2,10 +2,10 @@
 
 The Otherworld has returned and Gods old and twisted have staked their claim on the mortal plane promised to them. Who will you side with to keep you alive?
 
-[Skills](/docs/rules/skills.md)
+[Skills](/rules/skills.md)
 
-[Calls](/docs/rules/calls.md)
+[Calls](/rules/calls.md)
 
-[Rules](/docs/rules/rules.md)
+[Rules](/rules/rules.md)
 
-[Lore](/docs/world/lore.md)
+[Lore](/world/lore.md)

@@ -2,8 +2,8 @@
 
 The rules of the game can all be found here
 
-[Skills](/docs/rules/skills.md)
+[Skills](/rules/skills.md)
 
-[Calls](/docs/rules/calls.md)
+[Calls](/rules/calls.md)
 
-[Rules](/docs/rules/rules.md)
+[Rules](/rules/rules.md)
