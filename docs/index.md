@@ -1,11 +1,11 @@
-# Otherworlds Return 
+# Otherworlds Return index
 
 The Otherworld has returned and Gods old and twisted have staked their claim on the mortal plane promised to them. Who will you side with to keep you alive?
 
-[Skills](/skills)
+[Skills](/docs/rules/skills.md)
 
-[Calls](/calls)
+[Calls](/docs/rules/calls.md)
 
-[Rules](/rules)
+[Rules](/docs/rules/rules.md)
 
-[Lore](/lore)
+[Lore](/docs/world/lore.md)
