@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <link rel="stylesheet" href="/assets/css/style.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+</head>
+<body>
+<div id="header">
+    <nav>
+        <ul>
+
+        </ul>
+    </nav>
+</div><!-- end header -->
+
+<div class="wrapper">
+
+    <section>
+        <div id="title">
+            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            <p>{{ site.tagline | default: site.description | default: site.github.project_tagline }}</p>
+        </div>
+
+        {{ content }}
+
+    </section>
+
+</div>
+</body>
+</html>
