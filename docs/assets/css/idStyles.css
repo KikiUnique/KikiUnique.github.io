@@ -1,0 +1,126 @@
+#intro {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+#svgDrawer {
+    width: 100%;
+}
+
+
+#vallornDisplay {
+    display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+}
+
+#vallornRules {
+    width: 50%;
+    text-align: left;
+}
+
+
+#controls {
+    flex: 1;
+}
+
+#map {
+    flex: 4;
+    height: 80vh;
+    overflow-x: scroll;
+    overflow-y: scroll;
+}
+
+#vallornBoard {
+    width: 50%;
+}
+
+#noteDisplay {
+    width: 100%;
+    height: 100%;
+}
+
+#noteContent {
+    flex: 1 0 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#noteUploader {
+    flex: 0 2 0;
+    display: inherit;
+    flex-direction: column;
+}
+
+#notePage {
+    height: 100%;
+    flex: 1 0 0;
+    display: inherit;
+    flex-direction: column;
+}
+
+
+#audioList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 64px;
+}
+
+
+#sbGrid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: row;
+    flex: 70%;
+}
+
+#selectedDice {
+    margin: 20px 0px 0px 0px;
+}
+
+#dungeonItemList {
+    display: flex;
+}
+
+#itemDisplay {
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    align-self: center;
+    background: white;
+    color: black;
+    padding: 10px;
+    max-width: 400px;
+}
+
+@media only screen and (max-width: 400px) {
+  #dungeonItemList {
+    display: block;
+  }
+  
+    #itemDisplay {
+        width: 95%;
+    }
+}
+
+#QRCode {
+    margin: 10px auto;
+}
+
+#QRCode-txt {
+    margin: 10px;
+}
+
+#msg-box {
+    /*width:500px;*/
+    height: 400px;
+    overflow:auto;
+    margin: 0 auto;
+    padding: 5px;
+    border: 3px solid white;
+}
