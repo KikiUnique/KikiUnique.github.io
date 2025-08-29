@@ -16,7 +16,7 @@ The inhabitants of the Otherworld are descendents or creations of the Ancient On
 ## Goblins
   Descendants of teh call of the wild might not actually be true descendants. They spawn from the call of the wild, some think they are children of the call of the wild, others think they
   are extensions and pieces of its vast consciousness. Some have tried to question the goblins about this but they don't understand. It appears Goblins live longer than a single
-  incarnation but they struggle to recall last lives. Some can recall parts of their past lives but it becomes muddled and lost over time. Whilst many other fey have societies and cities,
+  incarnation but they struggle to recall last lives. Some can recall parts of their past lives but it becomes muddled and lost over time. Whilst many Others have societies and cities,
   the goblins do not. They manifest anywhere, each manifesting a different concept and not all wish to work together. Many exist for a short time and have their own agendas and desires
   based on their concept. Occasionally a goblin is created with some sort of agenda or task they work towards from creation. This a rare and usually a sign of the call of the wild
   desiring something to be done.
