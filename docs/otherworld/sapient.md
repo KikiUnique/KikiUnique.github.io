@@ -3,31 +3,17 @@ layout: default
 title: The Otherworld Sapient
 ---
 
-Sapience, a higher-level trait, involves wisdom, self-awareness, judgment, and complex thought, allowing for abstract reasoning and understanding of oneself within the universe. Sapient creatures can use their will in a multitude of way beyond instinct and survival to explore, improvement, and change their place in the universe. Whilst all entities of the Otherworld can grow their will, Sapient entities are capable of actively seeking to improve their will.
+Sapience, a higher-level trait, involves wisdom, self-awareness, judgment, and complex thought, allowing for abstract reasoning and understanding of oneself within the universe. Sapient creatures can use their will in a multitude of ways beyond instinct and survival to explore, improve, and change their place in the universe. Whilst all entities of the Otherworld can grow their will, Sapient entities are capable of actively seeking to improve their will.
 
 
 ## Kattos Foscad
-Descendants of the Guardian of the shadow lands are few, they are half human, half feline creatures. They stand and move like a human does but their legs are digitigrade, their face has
-a sharp feline sctructure, and their body is covered in short fur. The Kattos Foscad collect human souls to gift to the Guardian of the shadow lands. Each Kattos Foscad believe they are
-doing it for different reasons. They are quite predatory in their interactions, all things are seen through the lens of either being either predator or prey. Predators are to be
-cautiously respected, prey are an amusement at best. All humans are treated as prey until proven otherwise. This does not mean they will not respect anyone they consider prey. An 		
-entertaining hunt could lead to prey surviving for a future hunt. Predators may be treated as a threat and attacked if weakness is found. Kattos Foscad societies are small and built
-from families and prides which are multiple joined families. Within a pride life is relaxed but conflict and posturing between prides are common.
+Descendants of the Guardian of the shadow lands are few, they are half human, half feline creatures. They stand and move like a human does but their legs are digitigrade, their face has a sharp feline sctructure, and their body is covered in short fur. The Kattos Foscad collect human souls to gift to the Guardian of the shadow lands. Each Kattos Foscad believe they are doing it for different reasons. They are quite predatory in their interactions, all things are seen through the lens of either being either predator or prey. Predators are to be cautiously respected, prey are an amusement at best. All humans are treated as prey until proven otherwise. This does not mean they will not respect anyone they consider prey. An entertaining hunt could lead to prey surviving for a future hunt. Predators may be treated as a threat and attacked if weakness is found. Kattos Foscad societies are small and built from families and prides which are multiple joined families. Within a pride life is relaxed but conflict and posturing between prides are common.
 
 ## Goblins
-Descendants of teh call of the wild might not actually be true descendants. They spawn from the call of the wild, some think they are children of the call of the wild, others think they
-are extensions and pieces of its vast consciousness. Some have tried to question the goblins about this but they don't understand. It appears Goblins live longer than a single
-incarnation but they struggle to recall last lives. Some can recall parts of their past lives but it becomes muddled and lost over time. Whilst many Others have societies and cities,
-the goblins do not. They manifest anywhere, each manifesting a different concept and not all wish to work together. Many exist for a short time and have their own agendas and desires
-based on their concept. Occasionally a goblin is created with some sort of agenda or task they work towards from creation. This a rare and usually a sign of the call of the wild
-desiring something to be done.
+Goblins or manifested by the call of the wild. They are born to a focusing of will or power from the Otherworld and the created Goblin has an affinity and obsession with their focus. They aim to experience there focus as must as possible. When they have learnt all they can or when thier focus is destroyed the goblin appears to die and crumbles to dust. After this the call of the wild learns what the goblin had learnt.
+When humans first started to categorise the Others Goblins were considered Drones believing them to be extensions to the call of the wild. After time of observing them it became apparent that they have some connection to past lives but not each other. Some Goblins repeated created by ritual appeared to recall parts of past incarnations. Due to their single mindedness towards the focus of their birth moved them to be classified as sentient as they seemed to only focus on instinct even if in clever ways.
+Eventually Goblins with a focus of things that are larger and last longer started to question their existance and their purpose. Showing clear evidence of sapience. After a few more samples of this it was realised each incarnation was losing their memories, then reborn with a base intelligence but didn't know enough to question, given time their sapience became obvious.
+Occasionally a goblin is created with some sort of agenda or task they work towards from creation. Their focus being more complicated than the more common examples of Goblins. This is rare and usually a sign of the call of the wild desiring something to be done.
 
 ## Deathless Lie
-Descendants of the mother of story and nightmare are all born of death. The first lie the mother learnt was that life could be returned after death. The deathless lie are those born of
-the first lie that the mother learnt. When their first offsprint failed to survive their grief drove the mother to declaring this lie and manifesting the first deathless lie. Now there
-are more deathless, all created by that first lie. These creature look like corpses no matter how long they have been alive. They will gather stories or lies from those that meet, using
-powers of inspiration to bring about the lies they need to feed to their mother.
-
-## Root Spore
-
-## Hags
+Descendants of the mother of story and nightmare are all born of death. The mother attempted to make life but each attempt failed. In an attempt to learn why it failed they discovered stories of the dead rising and life returning. The story gave her power as all stories do. The dead things they created were given an artificial life, fed by the will of the Mother of Story and Nightmare. The deathless lie are those created by the Mother and granted a false life. These creature look like human corpses no matter how long they have been alive. with a portion of rotten flesh on their body that they must keep exposed to breath. They will gather stories or lies from those that meet, using powers of inspiration to bring about the lies they need to feed to their mother.
