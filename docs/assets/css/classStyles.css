@@ -9,18 +9,19 @@
 /* Main column */
 .main {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex: 70%;
     background: #1e1e38;
     padding: 20px;
     color: #fefefe;
-    display: block;
     height: auto;
 }
 
 .centralContent {
     width: 80%;
     margin-left: auto;
+    margin: 8px;
+    padding: 8px;
 }
 
 .leftContent {
@@ -29,6 +30,8 @@
     border-color: white;
     border-width: 1px;
     background: grey;
+    margin: 8px;
+    padding: 8px;
 }
 
 /* Style the top navigation bar */
