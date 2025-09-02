@@ -14,7 +14,6 @@
     background: #1e1e38;
     padding: 20px;
     color: #fefefe;
-    height: fit-content;
 }
 
 .centralContent {
@@ -32,6 +31,7 @@
     background: grey;
     margin: 8px;
     padding: 8px;
+    height: fit-content;
 }
 
 /* Style the top navigation bar */
