@@ -18,6 +18,11 @@
     height: auto;
 }
 
+.centralContent {
+    width: 80%;
+    margin-left: auto;
+}
+
 /* Style the top navigation bar */
 .navbar {
     overflow: hidden;
@@ -181,6 +186,11 @@
 @media only screen and (max-width: 1367px) {
   .documentPage {
     width: 100%;
+  }
+
+  .centralContent {
+    width: 100%;
+    margin-left: auto;
   }
 }
 
