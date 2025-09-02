@@ -14,7 +14,7 @@
     background: #1e1e38;
     padding: 20px;
     color: #fefefe;
-    height: auto;
+    height: fit-content;
 }
 
 .centralContent {
