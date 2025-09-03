@@ -10,3 +10,12 @@ Root and Branch have many extensions of their mind with individuals affected by 
 
 ## Stones of YasTah
 The stones of YasTah are a collective-intelligence spread across multiple stones in both the Otherworld and the mortal world. Once all the stones had the appearance of carved heads or faces and mainteined by the will of YasTah. During the divergence the stones in the mortal world weathers and many lost of their appearance but after the return YasTah was able to connect with them once again but couldn't repair the damage. Whilst the stones do not have functionality biological components they are able to see and hear the world around them although they can only communicate through their will. There stones are often used to gather information for YasTah and it is not uncommon to find people transporting Stones for YasTah as part of some deal. For those that can pay the price YasTah is often willing to watch an area to act as a spy, gather information, and in some cases it is possible for YasTah to warn of incoming danger.
+
+## Faceless
+The faceless are bipedal entities mostly the same shape as humans except for a lack of hair, nails, and face. They have no need to eat or drink, yet they appear to breath despite a lack of a mouth. What they breathe is unknown as they have been seen fully submerged and tests have shown they still appear to be breath whilst submerged even after 2 full days. The faceless roam the wilds and shy away from Otherworld cities and areas too stable. Once the returned happened the faceless started to bleed through to the mortal world. Since entering the mortal world their wariness about cities is not present. The faceless are non-hostile usually and function by a list of rules still being discovered and some appear to have rules unique to them or a particular group. THe rules that seems to be common amongst all faceless are.
+ - They attack if they see the eyes of a living being.
+ - They attack if they see someone holding, wearing, or injured with exposed bone.
+ - They avoid people instinctively, moving around where possible.
+ - They will pick up near-by food, hold it to their mouth, then place it back down.
+ - They will take any given weapon offered to them.
+ - They will attempt to wear any face like item (masks, hoods with eye holes) and it fuses to their face.
