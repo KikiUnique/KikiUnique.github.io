@@ -18,8 +18,44 @@ Whilst not exhaustive below is a list of common causes that can cause manifestat
 # Blooded
 The members of a bloodline that manifest traits from the Otherworld. These manifest different traits based on their bloodline. Bloodlines follow parentage and there are multiple bloodlines for each type. So don't expect all blooded of a given type to be related. Each families bloodline can be slightly different as the bloodlines appear unique but fall into 5 different categories based on the believed origins of each.
 
-## The Soulless (Lost soul to Kattos Foscad but survived and bore children)
-## The Rooted (Root and Branch spore infested)
+## The Soulless
+The Souless get their name from the origin of the bloodline. The Souless bloodline begins with someone that had their soul taken by Kattos Foscad but their body was resuscitated and they came back from death. It is known that the original Imbued can not have their soul taken a second time but the descendants do still have a soul at risk to Kattos Foscad.
+The Soulless appear as human but with feline traits such as vertical slit eyes, pronounced canine teeth, a secondary pair of feline ears. Not all blooded develop all traits which leads to some being able to pass as human should they try.
+Playing a Soulless gives you the following benefits and restrictions.
+Benefits
+- Leveling up Rituals Lore related to The Guardian of the Shadow Lands costs the price of the current level and not the next level.
+- When wearing light armor your armour rating in increased by your stamina (but does not grant additional uses)
+
+Restrictions
+ - Must have one of the following physrepped (vertical slit eyes, a pair of feline ears, pronounced canine teeth).
+ - Willpower can never be your highest Attribute
+ - Can not substitute Willpower for other Attributes for rituals
+
+## The Rooted
+The Rooted bloodline originates from an infected of Root and Branch. Many followers are infested with spores in a minor way, they keep their mind and can commune with Root and Branch. The spores make alterations to a person that can be passed along to their descendants. The first Imbued of the bloodline is the first offspring of an infected.
+The Rooted are not actually infected as the name may suggest, instead they manifest plant like bodyparts such as flowers growing from their body, vines for hair, and bark like scales over parts of their body.
+Playing a Rooted gives you the following benefits and restrictions.
+Benefits
+ - Leveling up Rituals Lore related to Root and Branch costs the price of the current level and not the next level.
+ - Able to use a ritual to send messages to Root and Branch once per event for free with no ritual casting required, just 30 seconds of deep meditation.
+
+Restrictions
+ - Must have one of the following physrepped (flowers growing from body, vines in or completely replacing hair, bark like scales on body).
+ - Any source of damage from fire or explosive deals 1 extra damage per hit
+
 ## The False (Told too many stories to a Deathless Lie or the Mother of Stories and Lies) 
+The False were given their name from their connection to the Mother of Stories and Lies. The first Imbued in these bloodlines is someone that gave many stories to the mother. Having the mother hold many of your stories forms a connection that changes you on a fundamental level. Those changes pass down to your descendants.
+The False become touched by the Mothers death and the blooded change deepens your connection. The blooded's skin begins to pale, dark bruise like coloring appears in areas with large muscles and around the face, their eyes color pales to white or close to it, 
+Playing one of The False gives you the following benefits and restrictions.
+Benefits
+- Each day you start with +2 additional Stamina which can not recover by any means other than surviving to the next dawn.
+- Receives no damage from effects of Bleed and duration is permanent.
+
+Restrictions
+- Must have one of the following physrepped (pale skin, bruises, pale or white eyes).
+- Death Count is halved (calculate as normal then divide by two)
+- Can not recover and Attribute while under the effect of bleed.
+
 ## The Damned (Bargained with The Lost One)
+
 ## The Hybrids (Survived twisted creature attack)
