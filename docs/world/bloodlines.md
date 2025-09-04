@@ -9,9 +9,8 @@ The one thing that all Bloodlines have in common is the blood. Thus far all bloo
 Currently, it is speculated that all descendants of a bloodline have the potential to manifest should the right situation occur, even in later life. However, despite return of manifesting later in life are present, the exact cause is unknown.
 
 # Bloodlines
-- ## Cats
-  The mortal offspring of Kattos Foscad, these blooded appear mostly human but will have some physical traits of their bloodline such as a pair of both feline and human ears, pronounced canine
-  teeth, vertical slitted eyes, digitigrade legs. Fur only manifests of body parts that they inherit from their bloodline.
-- ## Nons
-- ## Nyms
-- ## Witches
+- ## Cats (Lost soul to Kattos Foscad but survived and bore children)
+- ## Rooted (Root and Branch spore infested)
+- ## The False (Told too many stories to a Deathless Lie or the Mother of Stories and Lies) 
+- ## Damned (Bargained with The Lost One)
+- ## Hybrid (Survived twisted creature attack)
