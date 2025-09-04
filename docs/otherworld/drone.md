@@ -18,4 +18,4 @@ The faceless are bipedal entities mostly the same shape as humans except for a l
  - They avoid people instinctively, moving around where possible.
  - They will pick up near-by food, hold it to their mouth, then place it back down.
  - They will take any given weapon offered to them.
- - They will attempt to wear any face like item (masks, hoods with eye holes) and it fuses to their face.
+ - They will attempt to wear any face like item (masks, hoods with eye holes) and it fuses to their face.s
