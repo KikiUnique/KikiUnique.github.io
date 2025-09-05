@@ -156,14 +156,13 @@ input[type=checkbox]:checked ~ aside {
   cursor: pointer;
 }
 
-/* Adjustments for wider screens */
+/*
 @media all and (min-width: 800px) {
-  /* Don't take all the space as readability is lost when line length
-     goes past a certain size */
   .wrapper {
     width: 90%;
     max-width: 1000px;
     margin: 0 auto;
   }
 }
+*/
 
