@@ -69,10 +69,9 @@ Ritual
  - Rituals take between 3 - 10 mins to perform
  - Rituals effects are specific to the ritual being performed
  - Rituals succeed if given criteria are met, some may be hidden to the players based on time, location, participants
+ - Rituals are lead by someone with knowledge of the ritual, other can paricipate without knowing the ritual so long as they contribute their Attributes towards the casting.
  - Rituals all require a given amout of time, attribute, materials, and words/intent at a minimum. Some will require specific times or locations as well.
- 	- Rituals requirements are shared between all participants, each contributing part of the requirements.
- 	- All rituals require an attribute to work, all attribute can be substituted for health but require an additional material of blood from those substituting for health
- 		- This is done by the participant injuring themselves and allowing the blood to drip in the ritual area. Slicing their hand and squeezing their hand over the area works as a minimum.
+ 	- All rituals require an attribute to work, the ritual leader can substitute health for their attribute so long as their blood is used in the ritual.
  - Rituals take time to fully form so success is not known immediately. All rituals can take place during the session or during a downtime slot
  - Rituals may have requirements in the form of a level of one or more of the ritual skills.
  - There will be a list of common lore rituals that is known to all and a list of others not openly known that characters may research or discover in game.
