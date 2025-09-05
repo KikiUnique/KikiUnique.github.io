@@ -156,13 +156,4 @@ input[type=checkbox]:checked ~ aside {
   cursor: pointer;
 }
 
-/*
-@media all and (min-width: 800px) {
-  .wrapper {
-    width: 90%;
-    max-width: 1000px;
-    margin: 0 auto;
-  }
-}
-*/
 

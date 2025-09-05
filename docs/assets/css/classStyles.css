@@ -203,21 +203,3 @@
 .menuTitle {
     padding: 12px 8px;
 }
-
-/*
-@media only screen and (max-width: 1367px) {
-  .documentPage {
-    width: 100%;
-  }
-
-  .centralContent {
-    width: 100%;
-    margin-left: auto;
-  }
-
-  .leftContent {
-    width: 0%;
-    margin-left: auto;
-  }
-}
-*/
