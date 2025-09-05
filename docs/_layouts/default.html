@@ -18,7 +18,7 @@
 
 <div class="main">
 
-    <section class="leftContent">
+    <div class="leftContent">
         <div>
             <p>This area will contain links to Meta content.</p>
             <p>So details about upcoming events, recent history, policies, expected behaviour, etc...</p>
@@ -34,8 +34,8 @@
             <p> - link 3.1</p>
             <p> - link 3.2</p>
         </div>
-    </section>
-    <section class="centralContent">
+    </div>
+    <div class="centralContent">
         <div id="title">
             <h1>{{ page.title | default: site.github.repository_name }}</h1>
 <!--            <p>{{ site.tagline | default: site.description | default: site.github.project_tagline }}</p>-->
@@ -43,7 +43,7 @@
 
         {{ content }}
 
-    </section>
+    </div>
 
 </div>
 </body>
