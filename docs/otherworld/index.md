@@ -1,6 +1,6 @@
 ---
 layout: default
-title: World Overview
+title: OtherWorld Overview
 ---
 
 The Otherworld is a strange world very different to the Mortal world that was. The world follows different natural law controlled and manipulated by its inhabitants. This results are a world where symbolic connections, dream logic, and force of will dictate what is possible.

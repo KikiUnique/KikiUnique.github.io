@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Otherworld Blooded and Bloodlines
+title: Bloodlines and Blooded
 ---
 
 Interactions between the Otherworld entities and the mortal world could have a lasting effect on those interacting and their descendants. These interactions can cause humans to become Imbued and result in a new Bloodline and Blooded descendants. These humans are tied to the Otherworld in a small way that has begun to manifest in different ways since the return.
 
 # Imbued
-The Imbued are the origins of a Bloodline. Becoming imbued happens during some interaction with an entity of the Otherworld. These events are rare and near impossible to replicate, it is currently unknown if or how someone will be Imbued even when replicating the same events. Being Imbued appears to have no effect on the individual. They will often live there life without knowing they have become Imbued. The Imbued are the non-blooded of a bloodline. They do not manifest any blooded traits but they do have the potential and can pass it along to their descendants. It will continue to be passed on permanently, although it is possible for an Imbued to become Imbued again by other interactions and all are passed along. However once a blood is produced all descendants of that blood only produce Imbued for the bloodline they manifested.
+The Imbued are the origins of a Bloodline. Becoming imbued happens during some interaction with an entity of the Otherworld. Whilst some of these events are could be common, having them result in the creation of an Imbued is near impossible to replicate. It is currently unknown if or how someone will be Imbued even when replicating the same events. Being Imbued appears to have no effect on the individual. They will often live there life without knowing they have become Imbued. The Imbued are the non-blooded of a bloodline. They do not manifest any blooded traits but they do have the potential and can pass it along to their descendants. It will continue to be passed on permanently, although it is possible for an Imbued to become Imbued again by other interactions and all are passed along. However once a blood is produced all descendants of that blood only produce Imbued for the bloodline they manifested.
 
 # Blooded Manifestation
 The Imbued can manifest blooded traits at any point in life. Very rarely some are born already blooded but its is much more common to manifest during childhood or adolescence. Some still manifest during their adult years. The cause of the manifestation is varied but only one rule seem to hold true, the first Imbued in a bloodline is incapable of manifesting blooded traits.
@@ -43,19 +43,29 @@ Restrictions
  - Must have one of the following physrepped (flowers growing from body, vines in or completely replacing hair, bark like scales on body).
  - Any source of damage from fire or explosive deals 1 extra damage per hit
 
-## The False (Told too many stories to a Deathless Lie or the Mother of Stories and Lies) 
+## The False
 The False were given their name from their connection to the Mother of Stories and Lies. The first Imbued in these bloodlines is someone that gave many stories to the mother. Having the mother hold many of your stories forms a connection that changes you on a fundamental level. Those changes pass down to your descendants.
 The False become touched by the Mothers death and the blooded change deepens your connection. The blooded's skin begins to pale, dark bruise like coloring appears in areas with large muscles and around the face, their eyes color pales to white or close to it, 
 Playing one of The False gives you the following benefits and restrictions.
 Benefits
 - Each day you start with +2 additional Stamina which can not recover by any means other than surviving to the next dawn.
-- Receives no damage from effects of Bleed and duration is permanent.
+- Receives no damage from effects of Bleed and duration is infinite until removed.
 
 Restrictions
 - Must have one of the following physrepped (pale skin, bruises, pale or white eyes).
 - Death Count is halved (calculate as normal then divide by two)
-- Can not recover and Attribute while under the effect of bleed.
+- Can not recover any Attribute while under the effect of bleed.
 
-## The Damned (Bargained with The Lost One)
+## The Damned
+The Damned are descendants of those that have bargained with The Lost One and struck a deal. When someone strikes a deal with the Lost One their deal is marked in their flesh as marks. The marks take a shape and appearance based on their deal. They also become unable to tay in one place for long without consequence. 
+Their blooded descendants are also marked with the symbols of their original Imbued appearing as if tattooed in black ink on their body in visible locations. Attmpts to cover it up shifts them over time to more visually obvious locations.
+Playing one of The False gives you the following benefits and restrictions.
+Benefits
+- Once per day can perform ritual to share a skill for free with a 30 second roleplay
+- Twice per day can perform a ritual to detect changes in the barrier for free with 30 second roleplay
+- Can recover willpower by the willful sacrifice of Health or Stamina of others (old wounds open, or they feel tired).
 
-## The Hybrids (Survived twisted creature attack)
+Restrictions
+- Must have one of the following physrepped (at least 3 black tattoo like marking of symbols, if you and another player share a ancestor the symbols must match but location can differ).
+- If any of your symbols are kept covered by your costume Your Attributes max suffers a -1
+- Whilst willpower is 0 all skill level are at -1 (for comparing level but not for number of uses).

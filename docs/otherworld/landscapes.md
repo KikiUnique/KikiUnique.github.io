@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Otherworld Landscapes
+title: Otherworld Landscapes
 ---
 
 The landscape of the Otherworld is one of change with pockets of stable environments maintained by the collect will of the inhabitants. The wild lands are the areas where little to no will is used to stable it. THe wild lands are subject to change based on the subconscious and emotions of the Ancient ones. Wild lands closest to an Ancient One is predominantly influenced by that one alone. As the wild lands get further away the influence of multiple Ancient Ones start to have an impact.

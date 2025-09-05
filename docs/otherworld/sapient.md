@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Otherworld Sapient
+title: Otherworld Sapient Creatures
 ---
 
 Sapience, a higher-level trait, involves wisdom, self-awareness, judgment, and complex thought, allowing for abstract reasoning and understanding of oneself within the universe. Sapient creatures can use their will in a multitude of ways beyond instinct and survival to explore, improve, and change their place in the universe. Whilst all entities of the Otherworld can grow their will, Sapient entities are capable of actively seeking to improve their will.
