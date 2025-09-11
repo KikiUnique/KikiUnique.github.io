@@ -1,4 +1,7 @@
-# Calls
+---
+layout: default
+title: Calls
+---
 
 Sometimes during events there will be things that need to be communicated that can't be done in in character ways. This includes but is not limited to announcements of the game starting and stopping, special effects, and emergency announcements. This is where a call comes into play. A call is announced and its effect should be reacted to by those affected. 
 

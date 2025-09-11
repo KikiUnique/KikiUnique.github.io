@@ -1,4 +1,7 @@
-# Skills
+---
+layout: default
+title: Skills
+---
 
 The world has become a dangerous place and only the skilled survive. What skills do you have to keep yourself from becoming fodder for the powers that have returned.
 

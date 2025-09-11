@@ -1,4 +1,7 @@
-# Rules
+---
+layout: default
+title: Rules
+---
 
 All rules for the game are included on this page. Rules cover general skill use, combat, ritual, downtime, and other areas detailed below.
 
