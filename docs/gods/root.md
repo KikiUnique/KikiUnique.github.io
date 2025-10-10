@@ -1,0 +1,27 @@
+---
+layout: default
+title: Root and Branch
+---
+
+Root and Branch is commonly thought of as the Old God of Corruption, Symbiosis, and Infestation.
+
+## Description
+Root and Branch is not a single being but a hive mind shared across multiple bodies of many different types of being. All these creature make up an entire ecosystem, with each creature having its role to fill. The trees grow and produce two kinds of fruit. The first kind has an almost human like flesh that matures and then opens to release creatures under its control. These creatures follow their instructions like organs or body parts under the control of Root and Branch. The second type of fruit allows like fruits found in the human world. These fruit contain spores that allow Root and Branch to connect other creatures to their Hive mind to differing degrees. These spores can get into others via consumption of these fruit or, as they decay, the spores become airborne and can infect creatures through open wounds or being breathed in. Root and Branch can choose to release a creature should they wish but they see any who enter their realm and become infested with spores as theirs by right but they may be willing to let the spores die and free the creature if the trade is right.
+
+## Realm
+The Realm of Root and Branch is an infinite corrupted forest called the Dark Wood. The corruption gets worse the further from the center one travels. The very center is the largest tress which is the core of Root and Branch but its consciousness can be spoken with through any of the higher level intelligences in the creatures.
+The creatures and plant life in this realm all leach and steal from one another in perfect balance. The hive mind prevents any one creature or plant take more than can be given. In a world full of parasites the hive mind of Root and Branch keeps them all in symbiosis despite the pain and corruption of the creatures and plants.
+Once the Old Gods joined with the Earth new creatures found ways to enter the Dark Wood. Those that eat the food there or spend too long with injuries in the realm can become infested with spores. Some chose this, some are infested by accident. Root and Branch may make a deal with sentient creatures in exchange for their release, otherwise they have them seek more spore till they are completely under their control. Each new creature that finds its way to the hive mind gets a role in the ecosystem. It is currently unknown if anyone could be freed from the hive mind once fully joined with it.
+
+## Creatures
+The creatures of the Dark Wood are all made out fo vegetable matter. Whilst they are all individual bodies, through the presence of spores from Root and Branch they are all part of the same hive mind with differing levels of independence. The amount of control Root and Branch has over the creatures varies from no control only the ability to send sights and sounds into the creatures mind to full control of the creature with no mind of its own.
+
+### Guardians
+The Guardians are most commonly humanoid though there are variants that take on different forms. Regardless of form all Guardians have wood and bark armour plates on the creatures face and limb. Their face has a wood or bark like outer layer like a mask that is actually embedded to their bone structure. Their eyes peer through the wood but there is no mouth. Guardians get all their nutrients through photosynthesis and water and nutrients from soil. During rest the Guardians expose their hair and wooden plates to the light and submerge their feet in holes filled with water and soil slurry. Guardians are not fully controlled by Root and Branch as they need some level of autonomy to complete complex tasks and solve problems. Their connection with Rot and Branch allow for communication between the Guardians and Root and Branch effectively making them the Old Gods eyes, ears, and hands in the world. 
+
+### Infested
+When exposed to spores a creature becomes linked to Root and Branch and join the hive mind with varying levels of connection controlled by Root and Branch. They may choose to end the connection and let the spores die or speak to increase the infestation. Those that are fully infested lose their mind completely and become an extension of Root and Branch. Whilst Root and Branch can speak through any of the Infested it is rare for this to happen. Almost all Infested are semi autonomous drones that receive commands from Root and Branch and is granted just enough of the hive mind for it to complete its goals.
+Infested appear like other creatures but their skin has green lines, like vines or veins, visible under their skin. Whilst their movements tend to appear natural for the species, their behaviour tends to be robotic. They focus on a task or set of tasks to the exclusion of other concerns. When they have completed the task they go on to the next task or remain dormant till they get another task.
+
+## Followers
+The followers of Root and Branch call themselves Limb and Spore. These people have willingly ingested a sample of spores from Root and Branch. Just enough to form a mental connection between themselves and Root and Branch but not enough to lose their mind. Root and Branch can send them messages and insight but its doesn't work both ways. These followers work to best fulfill the wishes of Root and Branch.

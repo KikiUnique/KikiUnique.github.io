@@ -2,7 +2,7 @@
 layout: default
 title: The Return
 ---
-In the year 2000 AD the worlds overlapped once more and teh barrier between worlds thinned allowing the influence of the ancient ones to pass through. Connections between the worlds began to appear again and became more common, the ancient ones able to form them to suit their needs.
+In the year 2000 AD the worlds overlapped once more and the barrier between worlds thinned allowing the influence of the ancient ones to pass through. Connections between the worlds began to appear again and became more common, the ancient ones able to form them to suit their needs.
 
 They had watched the world, learning about what we achieved and saw things they did not agree upon and ensured they would not work in the otherworld should another crusade begin. Electricty, petrol power, steam power, guns, modern bombs, none of which would work in the Otherworld as their will forbade it.
 
