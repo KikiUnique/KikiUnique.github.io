@@ -1,6 +1,6 @@
 ---
 layout: default
-title: {{site.gameName}} LARP
+title: The Gaps in Reality LARP
 ---
 
 The world we know is full of cracks and behind the world is the Neverwas, the place all that is lost eventually ends up. Our world isn't even the only world that bleeds through to the Neverwas. Many versions of our world bleed to the Neverwas.
