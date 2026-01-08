@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Arrival of the Old Gods LARP
+title: {{site.gameName}} LARP
 ---
 
-The Old Gods have arrived at Earth and life will never be the same.
+The world we know is full of cracks and behind the world is the Neverwas, the place all that is lost eventually ends up. Our world isn't even the only world that bleeds through to the Neverwas. Many versions of our world bleed to the Neverwas.
+The Neverwas and the lost that live there don't follows the laws known to the worldsthey came from making this place a chaotic and dangerous place.
 
-Arrival of the Old Gods is a modern fantasy LARP based in Leicester.
-
-In the early 2000s a group Gods came to Earth in search of faithful to join them. There arrival caused an upheaval in the world, awakening something lost to humanity long ago. Now the world is dealing with the sudden appearance of magic, Gods, spirits, and a shifting power balance no one could have predicted.
+You have become one of the lost. Welcome to the Neverwas.
