@@ -17,7 +17,7 @@ Sometimes during events there will be things that need to be communicated that c
 	- If you are near the injured person you should ensure the area is clear and there is a path for first-aiders to get to the person as quick as possible.
 - Safety  
   This called is used if a situation is becoming unsafe, or you feel unsafe.
-  When called the game should stop briefly (as Time Freeze) in the local area, and raise a hand so show out of character until issue is dealt with. Those in the local area should identify the issue and move away. Once it is agreed to be safe hands can be lowered and the game continues as if the interruption never happened. Further gameplay should avoid the dangerous situation or area.
+  When called the game should stop briefly (as Time Freeze), and raise a hand so show out of character until issue is dealt with. Those in the local area should identify the issue and move away. Once it is agreed to be safe hands can be lowered and the game continues as if the interruption never happened. Further gameplay should avoid the dangerous situation or area.
   - If the issue is something that can be fixed the ref team should be contacted as soon as possible.
 
     
