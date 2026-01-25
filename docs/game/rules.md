@@ -31,7 +31,7 @@ Attribute Recovery
  - Health is recovered by the use of Frst aid and recovers at a rate of 1 per week with a full month providing all your health back.
  - Stamina is recovered via the use of certain potions or recovers at dawn of a new day (no matter how you got there)
  - Willpower is recovered via the use of certain potions or recovers at dawn of a new day (no matter how you got there)
- - 
+
 Downtime and advancement
  - Downtime is split into 4 slots used to advance you character in some way.
  - Each slot is a different week in the gap between events. All joint actions must be in the same slot.
