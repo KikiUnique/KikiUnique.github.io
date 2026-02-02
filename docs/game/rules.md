@@ -28,7 +28,7 @@ Combat
  	- Bleed out stops and time resets when any form of healing begins.
  	
 Attribute Recovery
- - Health is recovered by the use of Frst aid and recovers at a rate of 1 per week with a full month providing all your health back.
+ - Health is recovered by the use of First aid and recovers at a rate of 1 per week with a full month providing all your health back.
  - Stamina is recovered via the use of certain potions or recovers at dawn of a new day (no matter how you got there)
  - Willpower is recovered via the use of certain potions or recovers at dawn of a new day (no matter how you got there)
 
