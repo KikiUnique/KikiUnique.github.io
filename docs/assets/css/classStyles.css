@@ -39,7 +39,7 @@
 /* Style the top navigation bar */
 .navbar {
     overflow: hidden;
-    background-color: #3E482A;
+    background-color: #6C8C2B;;
 }
 .navbarItem {
   overflow: hidden;
@@ -90,8 +90,8 @@
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
-  color: black;
+  background-color: #6C8C2B;
+  color: white;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
