@@ -11,7 +11,7 @@ The Wilds are the wilds places between domains, not rules over by any High Fey a
 The Wilds and the Wild Paths fluctuate but the well-prepared that can learn of a current path can travel 100s of miles with just a short journey if they can protect themselves.
 
 ### Further Reading
-[Environments of the Otherworld](/otherworld/environments)
-[Peoples of the Otherworld](/otherworld/peoples)
-[Creatures of the Otherworld](/otherworld/creatures)
+- [Environments of the Otherworld](/otherworld/environments)  
+- [Peoples of the Otherworld](/otherworld/peoples)  
+- [Creatures of the Otherworld](/otherworld/creatures)  
 

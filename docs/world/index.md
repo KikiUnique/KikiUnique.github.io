@@ -14,6 +14,6 @@ By the end of the great wild hunt most of the human population were either dead 
 It has been years since then and the world has reached a new status quo. The humans ae living in the remnants of the World. When ever a settlement gets too large or draws too much attention the Fey stage a Hunt in the area. Each year on the anniversary of the Great Wild Hunt a smaller hunt takes place across the world. Now the humans and the Feylings are just trying to survive in their new world of magic, dangerous creatures, and Fey with the power and strength to do what they please.
 
 ### Further Reading
-[Environments of the World](/world/environments)
-[Peoples of the World](/world/peoples)
-[Creatures of the World](/world/creatures)
+- [Environments of the World](/world/environments)
+- [Peoples of the World](/world/peoples)
+- [Creatures of the World](/world/creatures)
