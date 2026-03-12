@@ -1,0 +1,7 @@
+---
+layout: default
+title: The Otherworld Creatures
+---
+
+## The Worlds Creatures ##
+ADD INTRO HERE FOLLOWED BY DETAILS OF SPECIFIC CREATURES BELOW. NO NEED TO LIST ALL POSSIBLE CREATURES, JUST THE COMMON ENCOUNTERS

@@ -43,17 +43,17 @@ For **Combative** skills you roleplay your attack and anounce you skill level, t
 
 
 ### Crafting
-For **Crafting** skills the level dictates what you can craft in downtime and in session. Crafting is done during downtime to create items with specific effects. These skills may also be used in a similar way to the Mental skills in that they may be required when interacting with some capsules found in the game. For information on crafting see the [Crafting](/rules/crafting) page.
+For **Crafting** skills the level dictates what you can craft in downtime and in session. Crafting is done during downtime to create items with specific effects. These stkills may also be used in a similar way to the Mental skills and be required when interacting with some capsules found in the game. For information on crafting see the [Crafting](/rules/crafting) page.
 - Alchemy
     - Creation of [Alchemy Items](/rules/crafting/alchemy) such as poisons, acids, and other chemical substances
 - Medical
     - Creation of [Medical items](/rules/crafting/medical) such as potions, antidotes, and first aid items
-- Fey Engineer
-    - Creation of [Enchantments](/rules/crafting/weapons) which can be applied to items or people for additional effects.
-- Smithing
-    - Creation of [Armours and Weapons](/rules/crafting/armour) such as body armour, shields, swords, and axes.
-- Old World Engineer
-    - Creation of [Devices and Structures](/rules/crafting/devices) from the old world powered by fey stones.
+- Weapon Smith
+    - Creation of [Weapons](/rules/crafting/weapons) such as sword, axes, knives.
+- Armour Smith
+    - Creation of [Armours](/rules/crafting/armour) such as body armour and shields.
+- Engineer
+    - Creation of [Devices and Structure](/rules/crafting/devices) such as wayfinders and stability stones.
 
 
 ### Mental

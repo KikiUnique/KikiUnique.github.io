@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Getting Started
+title: LARP Style
 ---
 
 {{site.gameName}} is a LARP that encourages PVE play to survive and faction based PVP to maintain control for yourself and your faction.

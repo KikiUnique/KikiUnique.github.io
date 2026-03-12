@@ -1,0 +1,7 @@
+---
+layout: default
+title: The Places of the Neverwas
+---
+
+## The Worlds Environments ##
+ADD DETAILS OF THE PLACES AND ENVIRONMENTS IN THE GAME AREA. INCLUDE SETTLEMENTS, RUINS, PERMANENT FEY PORTALS, AND POINTS OF INTEREST

@@ -3,13 +3,12 @@ layout: default
 title: Rules
 ---
 
-All rules for the game are included on this page. Rules cover general skill use, combat, downtime, and other areas detailed below.
+The rules for {site.gameName} are all included in this section. During a session the rules are divided into sections based on the type of skill and some additional calls that may be used in combat.
+There are additional rules to cover downtimes between events. During this time you don't use specific skills but can specify actions you will perform during your downtime and the ref team to use your action, any additional details you provided, and your current skill levels to determine the outcome of your downtime.
 
-Non-Combat Skill Use
-- Skills can be used in or out of combat but any attack (weather it causes damage or is absorbed by armour) interrupts the skill use and you must start again unless the skill was a Combative skill.
-- Many skills 
-- Skills take varying amounts of time to complete. This is determined either by the skill or the object being interacted with.
-- Skills have a level which is important to its use.
-    - Some skills might have uses that require a minimum level
-    - Some items or specific uses might require a minimum level (the object will have a note attached to inform you)
-- Some Skills might only be usable a given number of times for a situation or object after which something changes (item breaks) and prevent further attempts.
+### Further Reading
+[Character Skills](/rules/skills)
+[Combat Rules](/rules/combat)
+[Game Calls](/rules/calls)
+[Downtime Rules](/rules/downtime)
+
