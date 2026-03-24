@@ -69,6 +69,22 @@
     height: 192px;
 }
 
+.gridWrapper {
+  display: grid;
+  /*grid-template-columns: 100px 100px 100px;*/
+  grid-gap: 10px;
+  background-color: #fff;
+  color: #444;
+}
+
+.gridBox {
+  //background-color: #444;
+  //color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+}
+
 /* Change color on hover */
 .navbar a:hover {
     background-color: #6C8C2B;
