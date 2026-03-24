@@ -76,8 +76,11 @@
 }
 
 .gridBox {
-  border-radius: 5px;
-  padding: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
 
 /* Change color on hover */
