@@ -15,6 +15,7 @@ The High Fey have dominion over their own pocket of the OtherWorld with the Wild
     </div>
   <div class="gridBox">
 <h3>The Midnight Conclave</h3>
+<img class="thumbnail" src="/assets/img/otherworld/environemnt/mid1.jpeg" alt="Image of the midnight conclave capital"/>
 </div>
   <div class="gridBox">
 <h3>The Teller of Lies</h3>
