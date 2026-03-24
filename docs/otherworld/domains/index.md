@@ -10,8 +10,8 @@ The High Fey have dominion over their own pocket of the OtherWorld with the Wild
 
 <div class="gridWrapper">
     <div class="gridBox">
-        ### The Court of Twilight 
-            ![Capital City of the court of twilight](/assets/img/otherworld/environemnt/twi2.jpeg){: .thumbnail}
+        <h2>The Court of Twilight</h2>
+        <img class="thumbnail" src="/assets/img/otherworld/environemnt/twi2.jpeg" alt="Image of the twilight court capital"/>
     </div>
   <div class="gridBox">
 ### The Midnight Conclave
