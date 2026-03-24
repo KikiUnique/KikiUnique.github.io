@@ -19,17 +19,22 @@ The High Fey have dominion over their own pocket of the OtherWorld with the Wild
 </div>
   <div class="gridBox">
 <h3>The Teller of Lies</h3>
+<img class="thumbnail" src="/assets/img/otherworld/environemnt/lie1.jpeg" alt="Image of the teller of lies capital"/>
 </div>
   <div class="gridBox">
 <h3>The Bone Guard</h3>
+<img class="thumbnail" src="/assets/img/otherworld/environemnt/bone1.jpeg" alt="Image of the bone guard capital"/>
 </div>
   <div class="gridBox">
 <h3>The Lost</h3>
+<img class="thumbnail" src="/assets/img/otherworld/environemnt/lost1.jpeg" alt="Image of the lands fo the lost"/>
 </div>
   <div class="gridBox">
 <h3>The Burning Eclipse</h3>
+<img class="thumbnail" src="/assets/img/otherworld/environemnt/eclipse1.jpeg" alt="Image of the burning eclipse capital"/>
 </div>
   <div class="gridBox">
 <h3>The Wilds</h3>
+<img class="thumbnail" src="/assets/img/otherworld/environemnt/wild1.jpeg" alt="Image of travellers on a ath through the wilds"/>
 </div>
 </div>
