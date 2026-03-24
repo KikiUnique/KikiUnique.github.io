@@ -10,7 +10,7 @@ The Otherworld is full of unusual and in some cases very bizarre places to explo
 The High Fey domains are each unique with unique environments and in some cases unique creatures. Before the Fey return there were only a couple courts well known to world, mixed up in myth and story and called, by some, the summer and winter courts. After the Fey left the world the domains were untethered from time. As the centuries passed for the World, the millennia passed for the Otherworld. High Fey rose and well, the old courts were no more, new High Fey, in greater numbers, flourished and formed domains of their own. Whilst there are many High Fey only a small number are currently active in the local area.
 
 ### The Court of Twilight 
-![Capital City of the court of twilight](/img/otherworld/environment/twi2.jpeg){: .align-right}
+![Capital City of the court of twilight](/assets/img/otherworld/environment/twi2.jpeg){: .align-right}
 The Court of Twilight is ruled over by a High Fey that exists on the borders of things, transitions, and liminal spaces. The entrances to the Paths closest to their domain can be found in empty hallways, stairwells, and old transit hubs. Not all the paths are permanent, passing at twilight.
 The Fey that share this domain are interested in things that pass, change, and altering the state of things. The domain of the Court of Twilight is in perpetual twilight, a city of alleys and hallways, hubs, and doorways. You will find no rooms here, just transient spaces.
 

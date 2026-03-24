@@ -60,6 +60,10 @@
     float: right;
 }
 
+.align-right {
+    float: right;
+}
+
 /* Change color on hover */
 .navbar a:hover {
     background-color: #6C8C2B;
