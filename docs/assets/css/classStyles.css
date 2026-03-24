@@ -64,6 +64,11 @@
     float: right;
 }
 
+.thumbnail {
+    width: 192;
+    height: 128;
+}
+
 /* Change color on hover */
 .navbar a:hover {
     background-color: #6C8C2B;
