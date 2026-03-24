@@ -1,10 +1,13 @@
 ---
 layout: default
-title: The Otherworld Environments
+title: The Otherworld Domains
 ---
 
-The Otherworld is divided into different domains controlled over by High Fey. Once there were just 2 courts and the Wild fey but much has changed since the Fey were last in the world. The 2 courts fell and the High Fey rose in their place.
-The High Fey have dominion over their own pocket of the OtherWorld with the Wilds occupying the spaces between the domain, ruled over by no High Fey. There are hundreds of High Fey with Paths through the Wilds connecting domains to the World. Not all domains of the High Fey are accessible from all locations in the World. The domains listed here are those accessible around the local settlements.
+The Otherworld is divided into different domains controlled over by High Fey.  
+Once there were just 2 courts each rues over by 3 ancient fey and the Wilds ruled over by not Fey. Now much has changed since the Fey were last in the world. The 2 courts fell and the High Fey rose in their place.  
+
+The High Fey have dominion over their own pocket of the OtherWorld where the very land shapes to the nature of the High Fey. Around these domains are the Wilds, influence by no Fey but formed by the wild untamed magic of the Otherworld. The flow of the wild magic to the High Fey domains forming paths through the Wilds from the World to the OtherWorld domains.  
+There are hundreds of High Fey with Paths through the Wilds. Not all domains of the High Fey are accessible from all locations in the World. The domains listed here are those accessible around the local settlements.
 
 
 
