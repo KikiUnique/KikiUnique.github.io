@@ -10,25 +10,25 @@ The High Fey have dominion over their own pocket of the OtherWorld with the Wild
 
 <div class="gridWrapper">
     <div class="gridBox">
-        <h2>The Court of Twilight</h2>
+        <h3>The Court of Twilight</h3>
         <img class="thumbnail" src="/assets/img/otherworld/environemnt/twi2.jpeg" alt="Image of the twilight court capital"/>
     </div>
   <div class="gridBox">
-### The Midnight Conclave
+<h3>The Midnight Conclave</h3>
 </div>
   <div class="gridBox">
-### The Teller of Lies
+<h3>The Teller of Lies</h3>
 </div>
   <div class="gridBox">
-### The Bone Guard
+<h3>The Bone Guard</h3>
 </div>
   <div class="gridBox">
-### The Lost
+<h3>The Lost</h3>
 </div>
   <div class="gridBox">
-### The Burning Eclipse
+<h3>The Burning Eclipse</h3>
 </div>
   <div class="gridBox">
-## The Wilds
+<h3>The Wilds</h3>
 </div>
 </div>
