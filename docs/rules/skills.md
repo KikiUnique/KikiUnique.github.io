@@ -49,11 +49,11 @@ For **Crafting** skills the level dictates what you can craft in downtime and in
 - Medical
     - Creation of [Medical items](/rules/crafting/medical) such as potions, antidotes, and first aid items
 - Fey Engineer
-    - Creation of [Enchantments](/rules/crafting/weapons) which can be applied to items or people for additional effects.
+    - Creation of [Enchantments](/rules/crafting/fey_engineer) which can be applied to items or people for additional effects.
 - Smithing
-    - Creation of [Armours and Weapons](/rules/crafting/armour) such as body armour, shields, swords, and axes.
+    - Creation of [Armours and Weapons](/rules/crafting/smithing) such as body armour, shields, swords, and axes.
 - Old World Engineer
-    - Creation of [Devices and Structures](/rules/crafting/devices) from the old world powered by fey stones.
+    - Creation of [Devices and Structures](/rules/crafting/engineer) from the old world powered by fey stones.
 
 
 ### Mental
