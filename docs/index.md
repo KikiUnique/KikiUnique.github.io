@@ -1,9 +1,10 @@
 ---
 layout: default
-title: The Gaps in Reality LARP
+title: Fey Apocalypse LARP
 ---
 
-The world we know is full of cracks and behind the world is the Neverwas, the place all that is lost eventually ends up. Our world isn't even the only world that bleeds through to the Neverwas. Many versions of our world bleed to the Neverwas.
-The Neverwas and the lost that live there don't follows the laws known to the worldsthey came from making this place a chaotic and dangerous place.
+Welcome to Fey Apocalypse, a LARP based in a near future where the fey have returned and claimed the earth as their own.
 
-You have become one of the lost. Welcome to the Neverwas.
+Now we are just tryjng to survive jn a world of magic we cant control, technology that no longer works, and the Fey that see us as a fleeting novelty at best and pests at worst.
+
+Join us in a world where, the world is no longer ours and just surviving is an act of resistance.
