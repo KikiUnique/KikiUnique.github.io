@@ -9,11 +9,16 @@ Creation of [Alchemy Items](/rules/crafting/alchemy) such as poisons, acids, and
 There are a few known common poisons that have known antidotes. When making poisons you need to pick qualities to add to the poison. Each quality has a level, when making the poison you can pick a total level up to your Alchemy level. Once made you need a capsule that details both the roleplay and mechanical effects.
 
 **Bases**
-inert - no addional effect
-chemical - (2) can be delivered bt any means 
 poison - (1) must be consumed.
+chemical - (2) delivered in prolonged contact
 toxins - (1) must be delivered through annopen wound
 
+**Symptoms**
+Blindness - unable to see, act as unseejng but remember to keep your OC self safe
+Paralysis - Unable to move the specified body parts (whole body if none mentioned)
+Bleed - lose 1 health per minute 
+Tremors - skill level unchanged but cant make a call or use skill above level -2
+Disconnected- no magic casting
 
 Blood of Ice - Causes bleed, makes you feel cold, causes bleed but characcter is not aware till at half health.
 Red Death - makes you feel hot, causes blindness, paralysis, then death. After death corpse develops red splotches over their body and continue to feel hot to the touch for about 24 hours
